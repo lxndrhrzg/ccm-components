@@ -1,0 +1,1 @@
+ccm.callback["C:\Users\PC\documents\github\ccm-components\ccm-aherzo2s_faq\templates.json"]({"main":{"tag":"div","class":"messages","inner":{"tag":"div","class":"faq-title","inner":"FAQ"}},"message":{"tag":"div","class":"message","inner":[{"tag":"div","class":"name","inner":"%name%"},{"tag":"div","class":"text","inner":"%text%"}]}});
